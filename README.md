@@ -1,9 +1,17 @@
 ### Hello 👋🏼, I'm Pete
 
-#### What Interests Me
+#### Work/Career
+I currently work at Zendesk, as a Staff Software Engineer in Mobile. I was previously a Technical Lead, and then Team Lead at Zendesk.
 
-Here are some things about me:
+#### Some of My Projects
 
-- I'm a Dad at home, and a Staff Software Engineer
-- 🔭 I’m currently _possibly_ working on my hobby app [Bikey](https://apps.apple.com/ie/app/bikey/id1048962300)
-- 📫 How to reach me: ...
+- [Bikey](https://apps.apple.com/ie/app/bikey/id1048962300) - My hobby app, a bike share locator app for iOS. 
+- [freshswift.net](https://freshswift.net) - I curate this list of links relating to Swift
+
+#### Writing
+
+I write at [Medium](https://medium.com/@superpeteblaze). Mostly relating to Swift, iOS, and Mobile Development.
+
+#### Reach Me At
+
+- [Twitter](https://twitter.com/superpeteblaze)
