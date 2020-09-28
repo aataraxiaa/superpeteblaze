@@ -6,6 +6,7 @@ I currently work at Zendesk, as a Staff Software Engineer in Mobile. I was previ
 #### Some of My Projects
 
 - [Bikey](https://apps.apple.com/ie/app/bikey/id1048962300) - My hobby app, a bike share locator app for iOS. 
+- [ScalingCarousel](https://github.com/superpeteblaze/ScalingCarousel) - An open-source Carousel UI component for iOS
 - [freshswift.net](https://freshswift.net) - I curate this list of links relating to Swift
 
 #### Writing
