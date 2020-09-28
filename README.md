@@ -14,4 +14,4 @@ I write at [Medium](https://medium.com/@superpeteblaze). Mostly relating to Swif
 
 #### Reach Me At
 
-- [Twitter](https://twitter.com/superpeteblaze)
+[Twitter!](https://twitter.com/superpeteblaze)
